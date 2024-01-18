@@ -1,18 +1,8 @@
 4228720806 - FIVE - 6 - 20241212
 1522427999 - ryderskelly - 6 - 20241101
-3390577277 - SeniorAdm Lean - 6 - 20231101
-1314842002 - SeniorAdm Daria - 4 - 20231101
-1348793417 - SeniorAdm Hayk - 5 - 20231201
 4102888173 - Admin Charlie - 4 - 20240213
-471810141 - Admin Milka - 4 - 20231101
-4138300459 - Admin Pavel - 4 - 20231101
-70039130 - Admin Aoki - 4 - 20231101
-110622790 - Admin Rendi - 4 - 20231117
-1444198899 - Admin Vazovski - 3 - 20231201
-4039527277 - Johny Dyson - 4 - 20231101
-2861592411 - Seijurik - 4 - 20231101
 3962847646 - Nikita Apache - 5 - 20240220
-4189996514 - Admin White - 4 - 20240112
+
 
 
 
@@ -37,3 +27,16 @@ PR
 1344948665 - Scally - 4 - 20231201
 
 
+OLD
+
+4189996514 - Admin White - 4 - 20240112
+2861592411 - Seijurik - 4 - 20231101
+471810141 - Admin Milka - 4 - 20231101
+4138300459 - Admin Pavel - 4 - 20231101
+70039130 - Admin Aoki - 4 - 20231101
+110622790 - Admin Rendi - 4 - 20231117
+1444198899 - Admin Vazovski - 3 - 20231201
+4039527277 - Johny Dyson - 4 - 20231101
+3390577277 - SeniorAdm Lean - 6 - 20231101
+1314842002 - SeniorAdm Daria - 4 - 20231101
+1348793417 - SeniorAdm Hayk - 5 - 20231201
